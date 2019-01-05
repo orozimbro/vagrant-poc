@@ -11,16 +11,26 @@ vagrant-poc> vagrant init
 ```
 
 Consultanto o vagrant provider (virtualbox, vmware, hyperv):
-`vagrant-poc> vagrant provider`
+```
+vagrant-poc> vagrant provider
+```
 
 Iniciando o environment:
-`vagrant-poc> vagrant up`
+```
+vagrant-poc> vagrant up
+```
 
 Verificando o status do environment:
-`vagrant-poc> vagrant status`
+```
+vagrant-poc> vagrant status
+```
 
 Acessando um host especifico via ssh:
-`vagrant-poc> vagrant ssh srv01`
+```
+vagrant-poc> vagrant ssh srv01
+```
 
 Demais comandos em:
-`vagrant-poc> vagrant -h`
+```
+vagrant-poc> vagrant -h
+```
