@@ -34,3 +34,5 @@ Demais comandos em:
 ```
 vagrant-poc> vagrant -h
 ```
+e
+https://www.vagrantup.com/docs/
